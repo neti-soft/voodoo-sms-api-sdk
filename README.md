@@ -19,6 +19,7 @@ api.call('sendSMS', 'from' , '123456789', 'test message')
 
 ## Methods
 
+- constructor
 - sendSMS
 - getSms
 - getCredit
@@ -27,6 +28,10 @@ api.call('sendSMS', 'from' , '123456789', 'test message')
 
 ...to be continued
 
+## constructor
+
+Constructor.
+new VoodooApi(user, pass, defaultCountry)
 ## sendSMS
 
 Send SMS.
