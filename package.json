@@ -1,0 +1,23 @@
+{
+  "name": "voodoo-sms-api-sdk",
+  "version": "1.0.3",
+  "description": "Voodoo SMS API Javascript SDK",
+  "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/oleksandr-tkach/voodoo-sms-api-sdk"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voodoo-sms-api-sdk"
+  ],
+  "author": "Alex Tkach <alex.tkach@neti-soft.com> (https://www.neti-soft.com)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}
