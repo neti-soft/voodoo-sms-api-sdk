@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleksandr-tkach/voodoo-sms-api-sdk"
+    "url": "https://github.com/neti-soft/voodoo-sms-api-sdk"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
