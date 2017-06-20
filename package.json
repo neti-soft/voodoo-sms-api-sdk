@@ -1,6 +1,6 @@
 {
   "name": "voodoo-sms-api-sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Voodoo SMS API Javascript SDK",
   "main": "index.js",
   "repository": {
