@@ -21,7 +21,7 @@ api.call('sendSMS', 'from' , '123456789', 'test message')
 
 - constructor
 - sendSMS
-- getSms
+- getSMS
 - getCredit
 - getDlrStatus
 - getDlr
@@ -36,10 +36,10 @@ new VoodooApi(user, pass, defaultCountry)
 
 Send SMS.
 call(`sendSMS`, from, to, msg)
-## getSms
+## getSMS
 
 Get Incoming SMSs.
-call(`getSms`, dateFrom, dateTo)
+call(`getSMS`, dateFrom, dateTo)
 
 ## getCredit
 
