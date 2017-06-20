@@ -1,11 +1,11 @@
 {
   "name": "voodoo-sms-api-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Voodoo SMS API Javascript SDK",
   "main": "index.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/oleksandr-tkach/voodoo-sms-api-sdk"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleksandr-tkach/voodoo-sms-api-sdk"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
